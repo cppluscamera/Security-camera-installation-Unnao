@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cppluscamera.github.io/Security-camera-installation-Unnao/sitemap.xml
